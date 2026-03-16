@@ -30,7 +30,6 @@ The main goal of this assignment is to understand **asynchronous programming in 
 - **CSS3** – Basic styling  
 - **Vanilla JavaScript** – Logic and API interaction  
 
-⚠️ No frameworks or UI libraries were used (Bootstrap, Tailwind, etc.).
 
 ---
 
